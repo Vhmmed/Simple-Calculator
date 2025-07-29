@@ -30,11 +30,11 @@ Learning Objectives:
     Implement a switch-case structure for selecting operations.
 
     Format output to clearly show the operation and result.
-
     Enter Your Operation (+, -, *, /): *
-Enter The First Number: 4
-Enter The Second Number: 6
-4 * 6 = 24
+    Enter The First Number: 4
+    Enter The Second Number: 6
+    4 * 6 = 24
+
 
 
 
